@@ -1,2 +1,0 @@
-# illiterate-meme
-SDL
